@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
     s.platform                = :ios
     s.source                  = {
         :git => 'https://github.com/tinku07/FantasticView.git',
-        :tag => 'Helpers/' + s.version.to_s
+        :tag => s.version.to_s
     }
     s.source_files            = 'FantasticView/**/*.swift'
     s.requires_arc            = true
