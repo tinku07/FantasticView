@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		150F8C2B25D684EF006B2BFF /* FantasticView.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 150F8C2A25D684EF006B2BFF /* FantasticView.podspec */; };
 		1521AF2525D55F8B005ED23D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1521AF2425D55F8B005ED23D /* AppDelegate.swift */; };
 		1521AF2725D55F8B005ED23D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1521AF2625D55F8B005ED23D /* SceneDelegate.swift */; };
 		1521AF2925D55F8B005ED23D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1521AF2825D55F8B005ED23D /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		150F8C2A25D684EF006B2BFF /* FantasticView.podspec */ = {isa = PBXFileReference; lastKnownFileType = file; path = FantasticView.podspec; sourceTree = SOURCE_ROOT; };
 		1521AF2125D55F8B005ED23D /* FantasticView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FantasticView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1521AF2425D55F8B005ED23D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1521AF2625D55F8B005ED23D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 		1521AF2325D55F8B005ED23D /* FantasticView */ = {
 			isa = PBXGroup;
 			children = (
+				150F8C2A25D684EF006B2BFF /* FantasticView.podspec */,
 				1521AF2425D55F8B005ED23D /* AppDelegate.swift */,
 				1521AF2625D55F8B005ED23D /* SceneDelegate.swift */,
 				1521AF2825D55F8B005ED23D /* ViewController.swift */,
@@ -128,6 +131,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1521AF3125D55F8C005ED23D /* LaunchScreen.storyboard in Resources */,
+				150F8C2B25D684EF006B2BFF /* FantasticView.podspec in Resources */,
 				1521AF2E25D55F8C005ED23D /* Assets.xcassets in Resources */,
 				1521AF2C25D55F8B005ED23D /* Main.storyboard in Resources */,
 			);
