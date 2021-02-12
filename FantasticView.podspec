@@ -12,6 +12,6 @@ s.source           = { :git => 'https://github.com/tinku07/FantasticView.git', :
 s.ios.deployment_target = '10.0'
 s.swift_version    = '4.2'
 
-s.source_files = 'FantasticView/*.{swift,plist}'  
+s.source_files = 'FantasticView/*.{h,m,swift}'  
 end
 
